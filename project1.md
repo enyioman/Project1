@@ -8,7 +8,9 @@
 ---------------
 #### Update a list of packages in package manager with the run command below:
 
-`sudo apt update`
+```
+sudo apt update
+```
 
 ![Server  Update](./media/aptupg.png)
 
