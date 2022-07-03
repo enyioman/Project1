@@ -1,9 +1,10 @@
 # Project1
-Towards DevOps with Darey.io
 
-# PROJECT 1: LAMP STACK IMPLEMENTATION
+LAMP STACK IMPLEMENTATION
 
-### Web stack implementation (LAMP Stack) on AWS
+
+
+## Web stack implementation (LAMP Stack) on AWS
 
 	- Step 1: Installing Apache and updating the firewall
 
